@@ -1,2 +1,1 @@
-# remote-test-coursera
-Remote Repository Test of Coursera course
+I am editing the README file. Adding some more details about the project description.
